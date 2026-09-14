@@ -2,10 +2,10 @@
 
 ---
 
-Sega Computers SG-1000 Emulator for FabGL cards
+Sega SG-1000 Emulator for FabGL cards
 ---
 
-This is an Sega Computer SG-1000 emulator for ESP32 systems compatible with FabGL/VGA32.
+This is an Sega SG-1000 emulator for ESP32 systems compatible with FabGL/VGA32.
 
 Installation and usage:
 
